@@ -48,11 +48,11 @@ This template provides a standardized structure for:
 ## 🚀 Usage
 1. Clone this repository
 ```bash
-git clone https://github.com/your-username/Penetration-Testing-Report-Template.git
+git clone https://github.com/Ch4os1/Penetration-Testing-Report-Template.git
 ```
 2. Create a new engagement folder
 ```bash
-cp -r "Inlanefreight Penetration Test" "{New-Client} Penetration Test"
+cp -r "Penetration-Testing-Report-Template" "{New-Client} Penetration Test"
 ```
 3. Customize for your engagement
 	- Update administrative documents in Admin/
