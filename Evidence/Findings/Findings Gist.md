@@ -17,3 +17,12 @@
 	- Ease of exploitation and probability of attack
 	- Any other information that might help learn about and mitigate the attack 
 
+### Findings Naming Scheme
+- Ensure the findings reflect the risk-based naming scheme
+```bash
+Evidence/Findings/
+├── Critical - Kerberoasting Attack.md
+├── High - ASREPRoasting Attack.md
+├── Medium - LLMNR_NBT-NS Poisoning.md
+└── Medium - Tomcat Weak Credentials.md
+```

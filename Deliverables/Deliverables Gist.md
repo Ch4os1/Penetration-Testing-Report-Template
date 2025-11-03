@@ -1,1 +1,7 @@
 Deliverables: Folder for keeping your deliverables as you work through them. This will often be your report but can include other items such as supplemental spreadsheets and slide decks, depending on the specific client requirements.
+
+Final client-facing materials:
+- Executive Summary
+- Technical Report
+- Presentation decks
+- Remediation tracking sheets
